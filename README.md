@@ -1,8 +1,7 @@
 # demo 2
 
-some texthelloooo
-n helloooo
+Hello World
 
 ## local dev
 
-open index.html in your browser.
+Hello Universe
