@@ -6,4 +6,3 @@ Hello World
 
 Hello Universe
 
-This is me!
